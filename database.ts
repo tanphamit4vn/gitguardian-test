@@ -1,3 +1,4 @@
+# this is db string
 DB connection string
 db_host=localhost
 port=3425
